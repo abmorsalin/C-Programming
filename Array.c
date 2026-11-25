@@ -1,4 +1,4 @@
-
+         (Print all the integers into reverse number)
 #include<stdio.h>
 int main(){
 int i,n;
